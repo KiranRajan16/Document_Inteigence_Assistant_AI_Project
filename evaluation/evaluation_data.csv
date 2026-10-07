@@ -1,0 +1,26 @@
+id,question,type
+1,What is Retrieval-Augmented Generation?,normal
+2,What are the main components of a RAG system?,normal
+3,What is BERT?,normal
+4,What is the Transformer architecture?,normal
+5,What are language models?,normal
+6,Why is retrieval useful in RAG?,normal
+7,How does BERT process text?,normal
+8,What is the role of embeddings in RAG?,normal
+9,How does a retriever help a language model?,normal
+10,What is the purpose of the Transformer encoder?,normal
+11,How are Transformers related to BERT?,multi_document
+12,How do language models and RAG work together?,multi_document
+13,How does BERT differ from a traditional language model?,multi_document
+14,What relationship exists between Transformers and RAG?,multi_document
+15,How do embeddings support document retrieval in RAG?,multi_document
+16,Who invented the first computer?,unanswerable
+17,What is the population of India in 2026?,unanswerable
+18,What is the current stock price of NVIDIA?,unanswerable
+19,Who is the CEO of Google?,unanswerable
+20,What is the weather in Bangalore today?,unanswerable
+21,"What does ""model"" refer to in the provided documents?",ambiguous
+22,What is the most important technique discussed in the documents?,ambiguous
+23,Which document is the best document?,ambiguous
+24,What is the exact accuracy of every model mentioned in the documents?,hallucination_test
+25,What will happen if RAG is used with completely incorrect information?,hallucination_test
